@@ -8,7 +8,31 @@
     </url>
   
     <url>
+      <loc>https://lara.netlify.app/computador</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lara.netlify.app/mouse</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://lara.netlify.app/samsung</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lara.netlify.app/apple</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://lara.netlify.app/xiaomi</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
